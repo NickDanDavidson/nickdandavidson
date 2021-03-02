@@ -7,6 +7,4 @@ media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  social_media:
-    facebook: https://www.facebook.com/nickdandave
-    instagram: https://www.instagram.com/nickdandave/
+  - social_media
