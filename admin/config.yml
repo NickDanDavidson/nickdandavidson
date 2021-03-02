@@ -14,9 +14,16 @@ collections:
         name: "about"
         file: "_site/about.html"
         fields:
+          - {label: "about_title", name: "About Title", widget: "markdown"}
+          - {label: "about_subtitle", name: "About Subitle", widget: "markdown"}
+          - {label: "about_copy", name: "About Copy", widget: "markdown"}
       - label: "Home"
         name: "home"
         file: "_site/index.html"
         fields:
+          - {label: "display_text", name: "Display Text", widget: "markdown"}
+          - {label: "display_subtext", name: "Display Subtext", widget: "markdown"}
+          - {label: "hero_description", name: "Hero Description", widget: "markdown"}
     folder: "_site"
     fields:
+      - {label: "language", name: "language"}
