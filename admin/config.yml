@@ -7,5 +7,16 @@ media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - pantone_colors:
-  - social_media:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "About"
+        name: "about"
+        file: "_site/about.html"
+        fields:
+      - label: "Home"
+        name: "home"
+        file: "_site/index.html"
+        fields:
+    folder: "_site"
+    fields:
