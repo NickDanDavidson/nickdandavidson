@@ -11,6 +11,23 @@ collections:
     name: "blog"
     folder: "_posts"
     fields:
-      - {label: "title", name: "Title", widget: "markdown"}
-      - {label: "subtitle", name: "Subtitle", widget: "markdown"}
-      - {label: "body", name: "Body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "markdown"}
+      - {label: "Subtitle", name: "subtitle", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "_site/about.html"
+        fields:
+          - {label: "Title", name: "title", widget: "markdown"}
+          - {label: "Subtitle", name: "subtitle", widget: "markdown"}
+          - {label: "About Copy", name: "about_copy", widget: "markdown"}
+      - label: "Home"
+        name: "home"
+        file: "_site/index.html"
+        fields:
+          - {label: "Display Text", name: "display_text", widget: "markdown"}
+          - {label: "Display Subtext", name: "display_subtext", widget: "markdown"}
+          - {label: "Hero Description", name: "hero_description", widget: "markdown"}
