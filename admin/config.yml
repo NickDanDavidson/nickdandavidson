@@ -7,23 +7,10 @@ media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - label: "Pages"
-    name: "pages"
-    files:
-      - label: "About"
-        name: "about"
-        file: "_site/about.html"
-        fields:
-          - {label: "about_title", name: "About Title", widget: "markdown"}
-          - {label: "about_subtitle", name: "About Subitle", widget: "markdown"}
-          - {label: "about_copy", name: "About Copy", widget: "markdown"}
-      - label: "Home"
-        name: "home"
-        file: "_site/index.html"
-        fields:
-          - {label: "display_text", name: "Display Text", widget: "markdown"}
-          - {label: "display_subtext", name: "Display Subtext", widget: "markdown"}
-          - {label: "hero_description", name: "Hero Description", widget: "markdown"}
-    folder: "_site"
+  - label: "Blog"
+    name: "blog"
+    folder: "_posts"
     fields:
-      - {label: "language", name: "language"}
+      - {label: "title", name: "Title", widget: "markdown"}
+      - {label: "subtitle", name: "Subtitle", widget: "markdown"}
+      - {label: "body", name: "Body", widget: "markdown"}
