@@ -34,6 +34,8 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Hex Code', name: 'hex_code', widget: 'string' }
+      - { label: 'Year', name: 'year', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: "Pages"
     name: "pages"
