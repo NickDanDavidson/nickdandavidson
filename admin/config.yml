@@ -8,8 +8,8 @@ public_folder: "/images/uploads"
 media_library:
   name: cloudinary
   config:
-    cloud_name: your_cloud_name
-    api_key: your_api_key
+    cloud_name: deepwywnm
+    api_key: 997685817411955
 
 collections:
   - label: 'Blog'
@@ -24,19 +24,22 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: 'Pantone Colors'
+    name: 'pantone-colors'
+    folder: '_pantone-colors/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: "Pages"
     name: "pages"
     editor:
       preview: false
     files:
-      - label: "About Page"
-        name: "about"
-        file: "about.md"
-        fields:
-          - {label: "Title", name: "title", widget: "hidden", default: "about"}
-          - {label: "Subtitle", name: "subtitle", widget: "markdown"}
-          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'about'}
-          - {label: "About Copy", name: "about_copy", widget: "markdown"}
       - label: "Home"
         name: "home"
         file: "index.md"
@@ -44,6 +47,30 @@ collections:
           - {label: "Display Text", name: "display_text", widget: "markdown"}
           - {label: "Display Subtext", name: "display_subtext", widget: "markdown"}
           - {label: "Hero Description", name: "hero_description", widget: "markdown"}
+      - label: "About Page"
+        name: "about"
+        file: "about.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "markdown"}
+          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'about'}
+          - {label: "About Copy", name: "about_copy", widget: "markdown"}
+      - label: "Ramblings"
+        name: "blog"
+        file: "blog.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "markdown"}
+          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'about'}
+          - {label: "Intro Copy", name: "intro_copy", widget: "markdown"}
+      - label: "Pantone Colors"
+        name: "pantone-colors"
+        file: "pantone_colors.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "markdown"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "pantone-colors"}
+          - {label: "Copy", name: "copy", widget: "markdown"}
   - name: "config"
     label: "Config"
     editor:
