@@ -1,0 +1,10 @@
+items:
+  - name: Facebook
+    link: https://www.facebook.com/nickdandave/
+    fa-icon: fa-facebook
+  - name: Instagram
+    link: https://www.instagram.com/nickdandave/
+    fa-icon: fa-instagram
+  - name: GitHub
+    link: https://github.com/NickDanDavidson
+    fa-icon: fa-github
