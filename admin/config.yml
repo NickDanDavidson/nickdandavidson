@@ -63,7 +63,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "markdown"}
-          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'about'}
+          - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'default'}
           - {label: "Intro Copy", name: "intro_copy", widget: "markdown"}
       - label: "Pantone Colors"
         name: "pantone-colors"
@@ -71,7 +71,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "markdown"}
-          - {label: "Layout", name: "layout", widget: "hidden", default: "pantone-colors"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
           - {label: "Copy", name: "copy", widget: "markdown"}
   - name: "config"
     label: "Config"
