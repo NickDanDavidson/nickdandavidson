@@ -67,7 +67,7 @@ collections:
           - {label: "Intro Copy", name: "intro_copy", widget: "markdown"}
       - label: "Pantone Colors"
         name: "pantone-colors"
-        file: "pantone-colors.md"
+        file: "pantonecolors.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "markdown"}
