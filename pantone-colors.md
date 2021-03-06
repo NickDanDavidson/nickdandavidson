@@ -1,4 +1,5 @@
 ---
+layout: pantone-colors
 title: Pantone Colors of the Year
 subtitle: 2000 - present
 copy: >-
