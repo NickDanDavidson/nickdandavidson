@@ -3,6 +3,7 @@ layout: post
 title: Honeysuckle
 hex_code: "#d65076"
 year: "2011"
+is_double: false
 ---
 While the 2010 color of the year, PANTONE 15-5519 Turquoise, served as an escape for many, Honeysuckle emboldens us to face everyday troubles with verve and vigor. A dynamic reddish pink, Honeysuckle is encouraging and uplifting. It elevates our psyche beyond escape, instilling the confidence, courage and spirit to meet the exhaustive challenges that have become part of everyday life.
 

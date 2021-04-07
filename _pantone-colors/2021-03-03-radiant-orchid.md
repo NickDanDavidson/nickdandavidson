@@ -3,6 +3,7 @@ layout: post
 title: Radiant Orchid
 hex_code: "#b163a3"
 year: "2014"
+is_double: false
 ---
 ## EXPRESSIVE, EXOTIC RADIANT ORCHID BLOOMS WITH CONFIDENCE AND WARMTH.
 

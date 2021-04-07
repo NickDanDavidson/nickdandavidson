@@ -3,6 +3,7 @@ layout: post
 title: Ultraviolet
 hex_code: "#5f4b8b"
 year: "2018"
+is_double: false
 ---
 A dramatically provocative and thoughtful purple shade, PANTONE 18-3838 Ultra Violet communicates originality, ingenuity, and visionary thinking that points us toward the future.
 

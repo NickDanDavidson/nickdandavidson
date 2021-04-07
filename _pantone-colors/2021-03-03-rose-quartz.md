@@ -3,6 +3,7 @@ layout: post
 title: Rose Quartz
 hex_code: "#f7caca"
 year: "2016"
+is_double: true
 ---
 As consumers seek mindfulness and well-being as an antidote to modern day stresses, welcoming colors that psychologically fulfill our yearning for reassurance and security are becoming more prominent. Joined together, Rose Quartz and Serenity demonstrate an inherent balance between a warmer embracing rose tone and the cooler tranquil blue, reflecting connection and wellness as well as a soothing sense of order and peace.
 

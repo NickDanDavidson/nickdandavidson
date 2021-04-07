@@ -3,6 +3,7 @@ layout: post
 title: Tangerine Tango
 hex_code: "#e2492f"
 year: "2012"
+is_double: false
 ---
 The 2011 color of the year, PANTONE 18-2120 Honeysuckle, encouraged us to face everyday troubles with verve and vigor. Tangerine Tango, a spirited reddish orange, continues to provide the energy boost we need to recharge and move forward.
 

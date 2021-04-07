@@ -3,6 +3,7 @@ layout: post
 title: Living Coral
 hex_code: "#ff6f61"
 year: "2019"
+is_double: false
 ---
 Vibrant, yet mellow PANTONE 16-1546 Living Coral embraces us with warmth and nourishment to provide comfort and buoyancy in our continually shifting environment.
 

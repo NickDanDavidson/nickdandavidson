@@ -3,6 +3,7 @@ layout: post
 title: Chili Pepper
 hex_code: "#9b2335"
 year: "2007"
+is_double: false
 ---
 Chili Pepper, a deep, spicy red, as the color of the year for 2007. This engaging, resonant hue strikes a high note for fashion and personal expression as its boldness is appealingly eye-catching, sophisticated and enticing. In a time when personality is reflected in everything from a cell phone to a Web page on a social networking site, Chili Pepper connotes an outgoing, confident, design-savvy attitude.
 

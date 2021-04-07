@@ -3,6 +3,7 @@ layout: post
 title: Illuminating
 hex_code: "#f5df4d"
 year: "2021"
+is_double: true
 ---
 PANTONE 17-5104 Ultimate Gray + PANTONE 13-0647 Illuminating, two independent colors that highlight how different elements come together to support one another, best express the mood for Pantone Color of the Year 2021. Practical and rock solid but at the same time warming and optimistic, the union of PANTONE 17-5104 Ultimate Gray + PANTONE 13-0647 Illuminating is one of strength and positivity. It is a story of color that encapsulates deeper feelings of thoughtfulness with the promise of something sunny and friendly.
 

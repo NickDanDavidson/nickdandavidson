@@ -3,6 +3,7 @@ layout: post
 title: Classic Blue
 hex_code: "#0f4c81"
 year: "2020"
+is_double: false
 ---
 A timeless and enduring blue hue, PANTONE 19-4052 Classic Blue is elegant in its simplicity. Suggestive of the sky at dusk, the reassuring qualities of the thought-provoking PANTONE 19-4052 Classic Blue highlight our desire for a dependable and stable foundation on which to build as we cross the threshold into a new era.
 
