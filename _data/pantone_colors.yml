@@ -1,7 +1,7 @@
 colors:
   - title: Cerulean
     year: "2000"
-    is_double: false
+    is_double: "false"
     hex_code: "#98b4d4"
     description: >-
       &ldquo;The official colour of the millennium and Pantone's inaugural
@@ -17,7 +17,7 @@ colors:
       ~ Pantone Color Institute (PCI)
   - title: Fuchsia Rose
     year: "2001"
-    is_double: false
+    is_double: "false"
     hex_code: "#c3447a"
     description: >-
       &ldquo;..a bright pink and purple combination that evokes femininity,
@@ -27,7 +27,7 @@ colors:
       ~ PCI
   - title: True Red
     year: "2002"
-    is_double: false
+    is_double: "false"
     hex_code: "#bc243c"
     description: >-
       &ldquo;Said to be selected in recognition of the Sept. 11 attacks, [True
@@ -38,7 +38,7 @@ colors:
       ~ Brittany Siminitz, JCK
   - title: Aqua Sky
     year: "2003"
-    is_double: false
+    is_double: "false"
     hex_code: "#7fcdcd"
     description: >-
       &ldquo;After a bold red in 2002, Aqua Sky was chosen for its calming and
@@ -48,7 +48,7 @@ colors:
       ~ Brittany Siminitz, JCK
   - title: Tiger Lily
     year: "2004"
-    is_double: false
+    is_double: "false"
     hex_code: "#e15d44"
     description: >-
       &ldquo;The tigerlily flower inspired this 2004 color of the year, a
@@ -59,7 +59,7 @@ colors:
       ~ Brittany Siminitz, JCK
   - title: Blue Turquoise
     year: "2005"
-    is_double: false
+    is_double: "false"
     hex_code: "#55b4b0"
     description: >-
       &ldquo;Chosen for its calming hue that mimics the color of the sea, Blue
@@ -70,7 +70,7 @@ colors:
       ~ Brittany Siminitz, JCK
   - title: Sand Dollar
     year: "2006"
-    is_double: false
+    is_double: "false"
     hex_code: "#dfcfbe"
     description: >-
       &ldquo;Sand Dollar...is considered to be a neutral colour that expressed
@@ -82,7 +82,7 @@ colors:
       ~ Nationalcolorsupplies.com
   - title: Chili Pepper
     year: "2007"
-    is_double: false
+    is_double: "false"
     hex_code: "#9b2335"
     description: >-
       &ldquo;...a deep, spicy red. This engaging, resonant hue strikes a high
@@ -99,7 +99,7 @@ colors:
       ~ PCI
   - title: Blue Iris
     year: "2008"
-    is_double: false
+    is_double: "false"
     hex_code: "#5b5ea6"
     description: >-
       &ldquo;...a beautifully balanced blue-purple. Combining the stable and
@@ -114,7 +114,7 @@ colors:
       ~ PCI
   - title: Mimosa
     year: "2009"
-    is_double: false
+    is_double: "false"
     hex_code: "#efc050"
     description: >-
       &ldquo;...a warm, engaging yellow. In a time of economic uncertainty and
@@ -131,7 +131,7 @@ colors:
       ~ PCI
   - title: Turquoise
     year: "2010"
-    is_double: false
+    is_double: "false"
     hex_code: "#45b8ac"
     description: >-
       &ldquo;...an inviting, luminous hue. Combining the serene qualities of
@@ -147,7 +147,7 @@ colors:
       ~ PCI
   - title: Honeysuckle
     year: "2011"
-    is_double: false
+    is_double: "false"
     hex_code: "#d65076"
     description: >-
       &ldquo;While...Turquoise, served as an escape for many, Honeysuckle
@@ -164,7 +164,7 @@ colors:
       ~ PCI
   - title: Tangerine Tango
     year: "2012"
-    is_double: false
+    is_double: "false"
     hex_code: "#e2492f"
     description: >-
       &ldquo;Honeysuckle encouraged us to face everyday troubles with verve and
@@ -178,7 +178,7 @@ colors:
       ~ PCI
   - title: Emerald
     year: "2013"
-    is_double: false
+    is_double: "false"
     hex_code: "#009874"
     description: >-
       &ldquo;Tangerine Tango...provided the energy boost we needed to recharge
@@ -196,7 +196,7 @@ colors:
       ~ PCI
   - title: Radiant Orchid
     year: "2014"
-    is_double: false
+    is_double: "false"
     hex_code: "#b163a3"
     description: >-
       &ldquo;Radiant Orchid blooms with confidence and magical warmth that
@@ -209,7 +209,7 @@ colors:
       ~ PCI
   - title: Marsala
     year: "2015"
-    is_double: false
+    is_double: "false"
     hex_code: "#955251"
     description: >-
       &ldquo;Much like the fortified wine that gives Marsala its name, this
@@ -221,7 +221,7 @@ colors:
       ~ PCI
   - title: Rose Quartz
     year: "2016"
-    is_double: true
+    is_double: "true"
     hex_code: "#f7caca"
     description: >-
       &ldquo;Joined together, Rose Quartz and Serenity demonstrate an inherent
@@ -236,7 +236,7 @@ colors:
       ~ PCI
   - title: Serenity
     year: "2016"
-    is_double: true
+    is_double: "true"
     hex_code: "#93a9d1"
     description: TODO
   - title: Greenery
@@ -259,7 +259,7 @@ colors:
       ~ PCI
   - title: Ultraviolet
     year: "2018"
-    is_double: false
+    is_double: "false"
     hex_code: "#5f4b8b"
     description: >-
       &ldquo;A dramatically provocative and thoughtful purple shade..., Ultra
@@ -276,7 +276,7 @@ colors:
       ~ PCI
   - title: Living Coral
     year: "2019"
-    is_double: false
+    is_double: "false"
     hex_code: "#ff6f61"
     description: >-
       &ldquo;Vibrant, yet mellow...Living Coral embraces us with warmth and
@@ -293,7 +293,7 @@ colors:
       ~ PCI
   - title: Classic Blue
     year: "2020"
-    is_double: false
+    is_double: "false"
     hex_code: "#0f4c81"
     description: >-
       &ldquo;A timeless and enduring blue hue..., Classic Blue is elegant in its
@@ -309,7 +309,7 @@ colors:
       ~ PCI
   - title: Illuminating
     year: "2021"
-    is_double: true
+    is_double: "true"
     hex_code: "#f5df4d"
     description: >-
       &ldquo;Practical and rock solid but at the same time warming and
@@ -323,6 +323,6 @@ colors:
       ~ PCI
   - title: Ultimate Gray
     year: "2021"
-    is_double: true
+    is_double: "true"
     hex_code: "#939597"
     description: TODO
