@@ -227,10 +227,7 @@ colors:
       &ldquo;Joined together, Rose Quartz and Serenity demonstrate an inherent
       balance between a warmer embracing rose tone and the cooler tranquil blue,
       reflecting connection and wellness as well as a soothing sense of order
-      and peace.<br><br>
-
-
-      &ldquo;In many parts of the world we are experiencing a gender blur as it relates to fashion, which has in turn impacted color trends throughout all other areas of design. This more unilateral approach to color is coinciding with societal movements toward gender equality and fluidity, the consumer's increased comfort with using color as a form of expression, a generation that has less concern about being typecast or judged and an open exchange of digital information that has opened our eyes to different approaches to color usage.&rdquo;<br><br>
+      and peace.&rdquo;<br><br>
 
 
       ~ PCI
@@ -238,7 +235,18 @@ colors:
     year: "2016"
     is_double: "true"
     hex_code: "#93a9d1"
-    description: TODO
+    description: >-
+      &ldquo;In many parts of the world we are experiencing a gender blur as it
+      relates to fashion, which has in turn impacted color trends throughout all
+      other areas of design. This more unilateral approach to color is
+      coinciding with societal movements toward gender equality and fluidity,
+      the consumer's increased comfort with using color as a form of expression,
+      a generation that has less concern about being typecast or judged and an
+      open exchange of digital information that has opened our eyes to different
+      approaches to color usage.&rdquo;<br><br>
+
+
+      ~PCI
   - title: Greenery
     year: "2017"
     hex_code: "#88b04b"
@@ -257,6 +265,7 @@ colors:
 
 
       ~ PCI
+    is_double: "false"
   - title: Ultraviolet
     year: "2018"
     is_double: "false"
@@ -317,7 +326,7 @@ colors:
       and positivity.<br><br>
 
 
-      &ldquo;As people look for ways to fortify themselves with energy, clarity, and hope to overcome the continuing uncertainty, spirited and emboldening shades satisfy our quest for vitality. Illuminating is a bright and cheerful yellow sparkling with vivacity, a warming yellow shade imbued with solar power. Ultimate Gray is emblematic of solid and dependable elements which are everlasting and provide a firm foundation. The colors of pebbles on the beach and natural elements whose weathered appearance highlights an ability to stand the test of time, Ultimate Gray quietly assures, encouraging feelings of composure, steadiness and resilience.&rdquo;<br><br>
+      &ldquo;As people look for ways to fortify themselves with energy, clarity, and hope to overcome the continuing uncertainty, spirited and emboldening shades satisfy our quest for vitality. Illuminating is a bright and cheerful yellow sparkling with vivacity, a warming yellow shade imbued with solar power. &rdquo;<br><br>
 
 
       ~ PCI
@@ -325,4 +334,13 @@ colors:
     year: "2021"
     is_double: "true"
     hex_code: "#939597"
-    description: TODO
+    description: >-
+      &ldquo;Ultimate Gray is emblematic of solid and dependable elements which
+      are everlasting and provide a firm foundation. The colors of pebbles on
+      the beach and natural elements whose weathered appearance highlights an
+      ability to stand the test of time, Ultimate Gray quietly assures,
+      encouraging feelings of composure, steadiness and
+      resilience.&rdquo;<br><br>
+
+
+      ~ PCI
