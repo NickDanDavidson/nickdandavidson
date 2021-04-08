@@ -36,6 +36,7 @@ colors:
 
 
       ~ Brittany Siminitz, JCK
+    is_dark: true
   - title: Aqua Sky
     year: "2003"
     is_double: "false"
@@ -97,6 +98,7 @@ colors:
 
 
       ~ PCI
+    is_dark: true
   - title: Blue Iris
     year: "2008"
     is_double: "false"
@@ -112,6 +114,7 @@ colors:
 
 
       ~ PCI
+    is_dark: true
   - title: Mimosa
     year: "2009"
     is_double: "false"
@@ -283,6 +286,7 @@ colors:
 
 
       ~ PCI
+    is_dark: true
   - title: Living Coral
     year: "2019"
     is_double: "false"
@@ -316,6 +320,7 @@ colors:
 
 
       ~ PCI
+    is_dark: true
   - title: Illuminating
     year: "2021"
     is_double: "true"
