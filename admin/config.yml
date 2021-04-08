@@ -109,5 +109,5 @@ collections:
               - {label: Year, name: year, widget: string}
               - {label: "Is Double Color of the Year?", name: is_double, widget: string}
               - {label: Hex Code, name: hex_code, widget: string}
-              - {label: "Is Dark Color?", name: is_dark, widget: boolean}
+              - {label: "Is Dark Color?", name: is_dark, widget: boolean, required: false}
               - {label: Description, name: description, widget: markdown}
